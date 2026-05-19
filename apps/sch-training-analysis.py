@@ -28,8 +28,8 @@ def _(csv_file, mo, pd):
 @app.cell
 def _(df_uploaded_csv):
     df_filtered = df_uploaded_csv[df_uploaded_csv["type"].ne("trainer")]
-    df_grouped = df_filtered.groupby(['year', 'day', 'name']).size().reset_index(name='count')
-    df_pivot = df_grouped.pivot_table(index='name', columns=['year', 'day'], values='count', fill_value=0)
+    df_grouped = df_filtered.groupby(['year', 'day', 'time', 'name']).size().reset_index(name='count')
+    df_pivot = df_grouped.pivot_table(index='name', columns=['year', 'day', 'time'], values='count', fill_value=0)
     return (df_pivot,)
 
 

@@ -1,0 +1,105 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.1"
+  },
+  "cells": [
+    {
+      "id": "MJUe",
+      "code_hash": "0dcc08655884fc1821f9a00ab57b99a2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"firefly-reporting\">Firefly Reporting</h1>\n<h2 id=\"import-transaction-csv\">Import Transaction CSV</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "71021fd84b57164a7f51fc0c6afbcb25",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "30890ec03601d694aebc1f510f0d081b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "b71d49baeddac8abde3267d946e11935",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "acf4f88d6f0ba8160c272d0b02ed58eb",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "1a6b721d0b4f6feea1f690d0bd38e675",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "616c276dff462b07cc6afa250bc78007",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "2799cf4efa6d7a5bfb8bad9a2a2512e2",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "2b4a46b21d37116d69ab44773124f1b9",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "fc305702b892b14ef7222a24e3e6310c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "f45be6a940ec56bf9b59ece0c118b25b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "50ce74806c4b163b316033a49234bf68",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "e88dc304b5aaff3096e3131a79609c80",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "22cf20e0ca5619bd63df0a07e298ccb5",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "7e0392de0400b7d503374d83a78a64e6",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

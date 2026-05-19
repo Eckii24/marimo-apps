@@ -1,0 +1,73 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.1"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "7de0372abe4396a5e9ddcf7252c647f6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Hbol-0' random-id='bc97bff4-6188-6ca6-c713-5a00ecb15ed7'><marimo-file data-initial-value='[]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Upload CSV file&lt;/span&gt;&lt;/span&gt;&quot;' data-filetypes='[]' data-multiple='false' data-kind='&quot;button&quot;' data-max_size='100000000'></marimo-file></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "722f399e118ec97bb03ec0f6600b8d35",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "f339350a5d56ea9697129fd100ae0e1d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "0e89d94901798796082c14ab6c3ce457",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='bkHC-0' random-id='9f20777a-87f0-7dd1-10df-b5313093f43a'><marimo-multiselect data-initial-value='[&quot;(2023, 2, 14)&quot;,&quot;(2023, 2, 15)&quot;,&quot;(2023, 2, 16)&quot;,&quot;(2023, 2, 17)&quot;,&quot;(2023, 2, 18)&quot;,&quot;(2023, 2, 19)&quot;,&quot;(2023, 2, 20)&quot;,&quot;(2023, 3, 16)&quot;,&quot;(2023, 3, 17)&quot;,&quot;(2023, 3, 18)&quot;,&quot;(2023, 3, 19)&quot;,&quot;(2023, 3, 20)&quot;,&quot;(2023, 4, 18)&quot;,&quot;(2023, 4, 19)&quot;,&quot;(2023, 4, 20)&quot;,&quot;(2023, 5, 14)&quot;,&quot;(2023, 5, 15)&quot;,&quot;(2023, 5, 16)&quot;,&quot;(2023, 5, 17)&quot;]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Select columns to display&lt;/span&gt;&lt;/span&gt;&quot;' data-options='[&quot;(2018, 1, 18)&quot;,&quot;(2018, 2, 16)&quot;,&quot;(2018, 2, 18)&quot;,&quot;(2018, 2, 19)&quot;,&quot;(2018, 2, 20)&quot;,&quot;(2018, 3, 17)&quot;,&quot;(2018, 3, 18)&quot;,&quot;(2018, 3, 19)&quot;,&quot;(2018, 4, 18)&quot;,&quot;(2018, 5, 18)&quot;,&quot;(2019, 2, 17)&quot;,&quot;(2019, 2, 18)&quot;,&quot;(2019, 2, 19)&quot;,&quot;(2019, 2, 20)&quot;,&quot;(2019, 4, 19)&quot;,&quot;(2020, 1, 16)&quot;,&quot;(2020, 1, 17)&quot;,&quot;(2020, 1, 18)&quot;,&quot;(2020, 2, 15)&quot;,&quot;(2020, 2, 16)&quot;,&quot;(2020, 2, 17)&quot;,&quot;(2020, 2, 18)&quot;,&quot;(2020, 2, 19)&quot;,&quot;(2020, 2, 20)&quot;,&quot;(2020, 2, 21)&quot;,&quot;(2020, 3, 16)&quot;,&quot;(2020, 3, 17)&quot;,&quot;(2020, 3, 18)&quot;,&quot;(2020, 3, 19)&quot;,&quot;(2020, 4, 17)&quot;,&quot;(2020, 4, 18)&quot;,&quot;(2020, 4, 19)&quot;,&quot;(2021, 1, 16)&quot;,&quot;(2021, 1, 17)&quot;,&quot;(2021, 1, 18)&quot;,&quot;(2021, 1, 19)&quot;,&quot;(2021, 1, 20)&quot;,&quot;(2021, 2, 16)&quot;,&quot;(2021, 2, 17)&quot;,&quot;(2021, 2, 18)&quot;,&quot;(2021, 2, 19)&quot;,&quot;(2021, 2, 20)&quot;,&quot;(2021, 3, 17)&quot;,&quot;(2021, 3, 18)&quot;,&quot;(2021, 3, 19)&quot;,&quot;(2021, 4, 16)&quot;,&quot;(2021, 4, 17)&quot;,&quot;(2021, 4, 18)&quot;,&quot;(2021, 4, 19)&quot;,&quot;(2021, 4, 20)&quot;,&quot;(2021, 5, 16)&quot;,&quot;(2021, 5, 17)&quot;,&quot;(2021, 5, 18)&quot;,&quot;(2022, 2, 16)&quot;,&quot;(2022, 2, 17)&quot;,&quot;(2022, 2, 18)&quot;,&quot;(2022, 2, 19)&quot;,&quot;(2022, 2, 20)&quot;,&quot;(2022, 3, 18)&quot;,&quot;(2022, 3, 19)&quot;,&quot;(2022, 4, 18)&quot;,&quot;(2022, 4, 19)&quot;,&quot;(2022, 4, 20)&quot;,&quot;(2022, 5, 14)&quot;,&quot;(2022, 5, 15)&quot;,&quot;(2022, 5, 16)&quot;,&quot;(2023, 2, 14)&quot;,&quot;(2023, 2, 15)&quot;,&quot;(2023, 2, 16)&quot;,&quot;(2023, 2, 17)&quot;,&quot;(2023, 2, 18)&quot;,&quot;(2023, 2, 19)&quot;,&quot;(2023, 2, 20)&quot;,&quot;(2023, 3, 16)&quot;,&quot;(2023, 3, 17)&quot;,&quot;(2023, 3, 18)&quot;,&quot;(2023, 3, 19)&quot;,&quot;(2023, 3, 20)&quot;,&quot;(2023, 4, 18)&quot;,&quot;(2023, 4, 19)&quot;,&quot;(2023, 4, 20)&quot;,&quot;(2023, 5, 14)&quot;,&quot;(2023, 5, 15)&quot;,&quot;(2023, 5, 16)&quot;,&quot;(2023, 5, 17)&quot;,&quot;(2024, 2, 15)&quot;,&quot;(2024, 2, 16)&quot;,&quot;(2024, 2, 17)&quot;,&quot;(2024, 2, 18)&quot;,&quot;(2024, 2, 19)&quot;,&quot;(2024, 2, 20)&quot;,&quot;(2024, 3, 17)&quot;,&quot;(2024, 3, 18)&quot;,&quot;(2024, 3, 19)&quot;,&quot;(2024, 3, 21)&quot;,&quot;(2024, 4, 18)&quot;,&quot;(2024, 4, 19)&quot;,&quot;(2024, 4, 20)&quot;,&quot;(2024, 5, 14)&quot;,&quot;(2024, 5, 15)&quot;,&quot;(2024, 5, 16)&quot;,&quot;(2024, 5, 17)&quot;,&quot;(2024, 5, 18)&quot;,&quot;(2025, 2, 14)&quot;,&quot;(2025, 2, 15)&quot;,&quot;(2025, 2, 16)&quot;,&quot;(2025, 2, 17)&quot;,&quot;(2025, 2, 18)&quot;,&quot;(2025, 2, 19)&quot;,&quot;(2025, 2, 20)&quot;,&quot;(2025, 2, 21)&quot;,&quot;(2025, 3, 17)&quot;,&quot;(2025, 3, 18)&quot;,&quot;(2025, 3, 19)&quot;,&quot;(2025, 3, 20)&quot;,&quot;(2025, 3, 21)&quot;,&quot;(2025, 4, 17)&quot;,&quot;(2025, 4, 18)&quot;,&quot;(2025, 4, 19)&quot;,&quot;(2025, 4, 20)&quot;,&quot;(2025, 5, 14)&quot;,&quot;(2025, 5, 15)&quot;,&quot;(2025, 5, 16)&quot;,&quot;(2025, 5, 17)&quot;,&quot;(2025, 5, 18)&quot;,&quot;(2026, 2, 19)&quot;,&quot;(2026, 3, 18)&quot;,&quot;(2026, 3, 19)&quot;,&quot;(2026, 4, 19)&quot;,&quot;(2026, 4, 20)&quot;,&quot;(2026, 5, 14)&quot;,&quot;(2026, 5, 15)&quot;,&quot;(2026, 5, 16)&quot;,&quot;(2026, 5, 17)&quot;]' data-full-width='false'></marimo-multiselect></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "6db8d197c350ceca5de51409cfcc990a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='lEQa-0' random-id='acda137b-530c-776b-bbf7-f66a04bbba58'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;name&#92;&quot;:&#92;&quot;(Elisabeth) evtl. nach Kiefi&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;(Janine)&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;(Steffi)&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;(steffi)&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;.&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;1 Bahn Hauff Weihnachtsfeier&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;1/2 noch Jugendspiel&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;18:20 Uhr steffi&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;18:30 caro/ steffi&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0},{&#92;&quot;name&#92;&quot;:&#92;&quot;19:30 Steffi&#92;&quot;,&#92;&quot;2025,5,18&#92;&quot;:0.0,&#92;&quot;2025,5,17&#92;&quot;:0.0,&#92;&quot;2025,5,16&#92;&quot;:0.0,&#92;&quot;2025,5,15&#92;&quot;:0.0,&#92;&quot;2025,5,14&#92;&quot;:0.0,&#92;&quot;Total Sum,,&#92;&quot;:0.0}]&quot;' data-total-rows='468' data-total-columns='6' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;2025,5,18&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;2025,5,17&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;2025,5,16&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;2025,5,15&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;2025,5,14&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;Total Sum,,&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;name&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

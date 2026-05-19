@@ -1,8 +1,6 @@
-
-
 import marimo
 
-__generated_with = "0.13.2"
+__generated_with = "0.19.1"
 app = marimo.App(width="medium")
 
 
@@ -17,13 +15,11 @@ def _():
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""
-        # Firefly Reporting
+    mo.md(r"""
+    # Firefly Reporting
 
-        ## Import Transaction CSV
-        """
-    )
+    ## Import Transaction CSV
+    """)
     return
 
 
